@@ -1,6 +1,6 @@
 Hello, this task is done using Github Actions
 
-[![JUnit Test Status](https://github.com/bhos-qa/l2-github-actions-Dr4ks/actions/workflows/junit-tests.yml/badge.svg?branch=main)](https://github.com/bhos-qa/l2-github-actions-Dr4ks/actions/workflows/junit-tests.yml)
+[![JUnit Test Status](https://github.com/bhos-qa/l2-github-actions-Dr4ks/actions/workflows/junit-tests.yml/badge.svg?branch=feature%2Flab2)](https://github.com/bhos-qa/l2-github-actions-Dr4ks/actions/workflows/junit-tests.yml)
 
 First of all, I provide you with script that I code for test purposes on Java language.
 
