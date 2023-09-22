@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OJygRx81)
+Hello, this task is done using Github Actions
+
+First of all, I provide you with script that I code for test purposes on Java language.
+
+Here is the code of the 'main' class script
+
+![Image](img/image.png)
+
+And below you can see the code of the 'maintest' class script
+
+![Image1](img/image1.png)
+
+
+Here is the result of script that 'test passed'.
+![Image2](img/image2.png)
+
+
+Now, it's time to task requirement that protecting 'develop' branch with successful Github action run.
+Let's do this.
