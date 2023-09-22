@@ -47,3 +47,13 @@ I did this by below code.
 ```
 
 You can look at the real one, at the top of README.md file.
+
+
+Finally, it's time to do last part of task that make PR from 'feature/lab2' branch to 'develop' branch 
+
+Before image of Github Actions
+![Image6](img/image6.png)
+
+Now, let's open PR.
+![Image7](img/image7.png)
+
