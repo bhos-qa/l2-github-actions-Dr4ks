@@ -24,7 +24,7 @@ jobs:
 
       # Run gradle test
       - name: Run gradle test
-        run: ./gradlew test
+        run: cd Project && ./gradlew test
 
       - name: Build app
-        run: ./gradlew build
+        run: cd Project && ./gradlew build
