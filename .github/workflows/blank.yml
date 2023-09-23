@@ -24,7 +24,4 @@ jobs:
 
       # Run gradle test
       - name: Run gradle test
-        run: ./gradlew test
-
-      - name: Build app
-        run: ./gradlew build
+        run: chmod +x gradlew && ./gradlew test
